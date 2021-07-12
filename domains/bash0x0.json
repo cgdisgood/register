@@ -1,0 +1,11 @@
+{
+  "description": "Bash0x0 API",
+  "repo": "https://github.com/bash0x0",
+  "owner": {
+    "username": "Bash0x0",
+    "email": "bash0x0@protonmail.com"
+  },
+  "record": {
+    "CNAME": "api.getbash.wtf"
+  }
+}
